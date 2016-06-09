@@ -1,3 +1,4 @@
+0;Empty Tile;not_set,0;0;0;0;Not plant is planted here...;res/transparent.png
 9;Carrot;water,6:fert,3;4;3;882;Do you even carrot all?;res/carrot.png
 10;Basil;water,10:fert,10;8;9;852;The king of herbs;res/basil.png
 11;Mango;water,14:fert,12;10;19;1358;FIRST is about mangoes;res/Mango.png
